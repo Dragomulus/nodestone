@@ -11,7 +11,7 @@ Easy to use Node Lodestone parser.
 Gather dependencies
 
 ```shell
-yarn add xivapi/lodestone-css-selectors
+yarn add dragomulus/lodestone-css-selectors
 yarn install
 ```
 

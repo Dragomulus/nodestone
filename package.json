@@ -18,6 +18,7 @@
     "express": "^5.2.1",
     "linkedom": "^0.16.11",
     "lodash": "^4.18.1",
+    "lodestone-css-selectors": "dragomulus/lodestone-css-selectors",
     "pino": "^8.19.0",
     "pino-http": "^9.0.0",
     "regex-translator": "^0.2.8",
