@@ -1,5 +1,5 @@
 {
-  "name": "@xivapi/nodestone",
+  "name": "@dragomulus/nodestone",
   "version": "0.3.0",
   "main": "lib/index.js",
   "license": "MIT",
